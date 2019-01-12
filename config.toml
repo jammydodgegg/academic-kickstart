@@ -13,7 +13,7 @@ title = "Just Cubitt³"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2019"
 
 theme = "academic"
 enableEmoji = true
@@ -113,7 +113,7 @@ enableGitInfo = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "playfair"
+  font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
   description = ""
